@@ -17,4 +17,3 @@ ExcerciseSchema
 
 //Export model
 module.exports = mongoose.model('Excercise', ExcerciseSchema);
-

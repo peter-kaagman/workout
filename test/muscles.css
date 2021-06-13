@@ -1,0 +1,16 @@
+#img-container {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: yellow;
+}
+
+#muscles {
+  cursor: crosshair;
+  padding: 0;
+  margin: 0;
+}
+
+thead {
+  background-color: grey;
+}
